@@ -1,0 +1,18 @@
+{
+  "name": "Α.Ο. ΠΡΩΤΑΘΛΗΤΕΣ Ηρακλείου",
+  "short_name": "ΠΡΩΤΑΘΛΗΤΕΣ",
+  "description": "Πρότυπη Ακαδημία Κολύμβησης στο Ηράκλειο",
+  "lang": "el",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e00018",
+  "icons": [
+    {
+      "src": "assets/official-logo.png",
+      "sizes": "950x518",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
